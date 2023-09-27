@@ -30,4 +30,4 @@ Möchtest du Foodwagon selbst ausprobieren? So kannst du starten:
 
 ## Screenshots
 
-![Kein Titel (4320 × 1700 px)](https://github.com/YafesMakesApps/Foodwagon-Manager/assets/146208688/205bb477-4a19-40e9-b35c-5d3bccb0fcd9)
+![Kein Titel (4320 × 1700 px)-1](https://github.com/YafesMakesApps/Foodwagon-Manager/assets/146208688/045af3bc-7592-4151-baff-0d2d6e2cf9e1)
