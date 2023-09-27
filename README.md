@@ -2,7 +2,7 @@
 
 Durch die Foodwagon Manager App können Anbieter ihre Foodtrucks, Menüs und alle anderen Informationen, die in der Foodwagon App angezeigt werden sollen, einfach und effizient verwalten. Die App wurde benutzerfreundlich, funktional und einfach gestaltet.
 
-![Foodwagon Logo](link-zum-logo.png)
+![Food Wagon-10](https://github.com/YafesMakesApps/Foodwagon-Manager/assets/146208688/93dee147-a778-43ea-9d85-10b274405309)
 
 ## Über Foodwagon Manager
 
